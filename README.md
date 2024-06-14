@@ -14,7 +14,7 @@ The architecture consists of the following components:
 4. **Spark** for processing and aggregating data.
 5. **Hive** for making data queryable.
 
-![Architecture Diagram](images/architecture.png) _Insert Architecture Diagram here_
+![Architecture Diagram](images/architecture.png) 
 
 ## Approach
 
